@@ -8,3 +8,5 @@
 **/cargo.lock
 **/.DS_Store
 **/.env
+**/*.wasg.gz
+optimized-wasm/snip20_reference_impl.wasm.gz
